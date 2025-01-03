@@ -16,7 +16,7 @@ This documentation will guide you through the steps to use the library effective
 Clone the repository containing the server and client code, and navigate to the project directory:
 
 ```bash
-git clone https://github.com/your-repo/video-translation-python.git
+git clone https://github.com/tirth-hs/video_translation_python.git
 cd video-translation-python
 ```
 
